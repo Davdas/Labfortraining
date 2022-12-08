@@ -1,0 +1,36 @@
+.info-user {
+  position: relative;
+  border: 2px solid #066f06;
+  height: 50px;
+  width: 30%;
+  border-radius: 10px;
+}
+
+.text-user {
+  position: absolute;
+  top: -30px;
+  left: 20px;
+  display: inline;
+  background-color: #fff;
+}
+
+.icon-user {
+  position: absolute;
+  top: -25px;
+  right: 50px;
+  display: inline;
+  background-color: #fff;
+}
+
+.label-user {
+  margin-left: 10px;
+  color: #081262;
+  font-weight: 500;
+}
+
+.info-user:last-child {
+  border: 2px solid #066f06;
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+}

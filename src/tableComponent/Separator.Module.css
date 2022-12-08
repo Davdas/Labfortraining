@@ -1,0 +1,13 @@
+.separator-text {
+  border-top: 1px solid green;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.text-icon {
+  position: relative;
+  top: -28px;
+  left: 45%;
+  display: inline-block;
+  background-color: #ffffff;
+}
